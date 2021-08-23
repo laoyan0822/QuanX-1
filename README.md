@@ -26,7 +26,7 @@ https://github.com/Oreomeow/QuanX/blob/master/update.md
 ### （一）订阅基础懒人包配置
 
 
- 1.复制`2021版懒人包订阅地址`，如下
+  1.复制`2021版懒人包订阅地址`，如下
  
  https://raw.githubusercontent.com/Oreomeow/QuanX/master/sngx2021.conf
 
